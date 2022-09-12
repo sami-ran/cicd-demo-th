@@ -34,7 +34,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.4.0-20220221</muleVersion>
+						<muleVersion>4.4.0</muleVersion>
 						<username>samiran_6092022</username>
 						<password>Samiran@123</password>
 						<environment>Sandbox</environment>
